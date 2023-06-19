@@ -1,8 +1,7 @@
 import java.io.*;
-import java.util.Scanner;
 
 //Make a copy of the file recommendations.txt and add 3 film recommendations
-public class Exercise3 {
+public class Exercise3Characters {
     public static void main(String[] args) throws IOException {
         copyFile();
     }

@@ -1,9 +1,8 @@
-import javax.security.sasl.SaslClient;
 import java.io.*;
 import java.util.Scanner;
 
 //Open the keyboard to type 3 movies you would recommend to a friend and save it on a txt
-public class Exercise2 {
+public class Exercise2Characters {
     public static void main(String[] args) throws IOException {
         readKeyboardWriteDocument();
     }

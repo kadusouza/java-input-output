@@ -1,7 +1,7 @@
 import java.io.*;
 
 //Open the keyboard to type 3 movies you would recommend to a friend and print it on console
-public class Exercise1 {
+public class Exercise1Characters {
     public static void main(String[] args) throws IOException {
         receiveFilmsAndPrintThem();
     }
